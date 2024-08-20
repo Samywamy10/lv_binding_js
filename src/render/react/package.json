@@ -1,11 +1,15 @@
 {
-  "name": "lvgljs-ui",
-  "version": "0.0.1",
-  "description": "lvgljs react frame",
+  "name": "lvgljs",
+  "version": "0.0.2",
+  "description": "The publicly importable React package for lvgljs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sxs7513",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvgl/lv_binding_js.git"
+  }
 }
